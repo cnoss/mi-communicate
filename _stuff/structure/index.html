@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="modules/treant-js/Treant.css" type="text/css" />
+
+    <style>
+        .fs {
+            width: 100%;
+            height: 100%;
+        }
+        
+        .node {
+            border: 1px solid #C8C8C8;
+            padding: 5px;
+            text-align: left;
+        }
+        
+        .node p {
+            margin: 0;
+            text-align: left;
+        }
+    </style>
+
+    <script>
+        sitemap_config = {
+            chart: {
+                container: "#mi-sitemap",
+                rootOrientation: "WEST"
+            },
+            nodeStructure: {
+                text: {
+                    name: "Home"
+                },
+                children: [{
+                    text: {
+                        name: "Pulse"
+                    },
+                    children: [{
+                        text: {
+                            name: "Inhalte, Techniken, News, Trends"
+                        }
+                    }]
+                }, {
+                    text: {
+                        name: "Study"
+                    },
+                    children: [{
+                        text: {
+                            name: "Studentisches Leben."
+                        }
+                    }, {
+                        text: {
+                            name: "Modulinfo & Orga"
+                        }
+                    }, {
+                        text: {
+                            name: "Berufsbilder"
+                        }
+                    }, {
+                        text: {
+                            name: "Studiengangskonzept"
+                        }
+                    }, {
+                        text: {
+                            name: "Facilities"
+                        }
+                    }]
+                }, {
+                    text: {
+                        name: "Mission"
+                    },
+                    children: [{
+                        text: {
+                            name: "Haltung/ Selbstbild/ Leitbild"
+                        }
+                    }, {
+                        text: {
+                            name: "Internationalisierung"
+                        }
+                    }]
+                }, {
+                    text: {
+                        name: "Projects"
+                    },
+                    children: [{
+                        text: {
+                            name: "Projekte retrospektiv & darstellend"
+                        }
+                    }, {
+                        text: {
+                            name: "Projekte und Projektbeteiligungen"
+                        }
+                    }]
+                }, {
+                    text: {
+                        name: "Toolbox"
+                    },
+                    children: [{
+                        text: {
+                            name: "Ressourcen: Folien, Material, Helferlein"
+                        }
+                    }]
+                }, {
+                    text: {
+                        name: "People"
+                    },
+                    children: [{
+                        text: {
+                            name: "Ansprechpartner"
+                        }
+                    }, {
+                        text: {
+                            name: "Team"
+                        }
+                    }, {
+                        text: {
+                            name: "Supporter"
+                        }
+                    }]
+                }, {
+                    text: {
+                        name: "Research"
+                    },
+                    children: [{
+                        text: {
+                            name: "Forschungsthemen und -interessen"
+                        }
+                    }]
+                }, ]
+
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div id="mi-sitemap" class="fs"> </div>
+
+    <!-- javascript -->
+    <script src="modules/treant-js/vendor/raphael.js"></script>
+    <script src="modules/treant-js/Treant.js"></script>
+
+    <script>
+        var my_chart = new Treant(sitemap_config);
+    </script>
+</body>
+
+</html>

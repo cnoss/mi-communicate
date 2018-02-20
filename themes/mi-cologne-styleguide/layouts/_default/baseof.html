@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>{{ partial "head.html" . }}</head>
+
+<body>
+
+    <div class="off-canvas-wrapper">
+        <div class="off-canvas position-left" id="offCanvas" data-off-canvas>
+
+            {{ partial "sidebar.html" . }}
+        </div>
+        <div class="off-canvas-content" data-off-canvas-content>
+            <div class="grid-container fluid">
+                <div class="grid-x grid-margin-x">
+                    <div class="large-12 cell">
+                        {{ partial "atoms/icon-main-menu.html" . }}
+                    </div>
+                </div>
+
+                {{ block "main" . }} {{ end }} {{ partial "footer.html" . }} {{ partial "scripts.html" . }}
+            </div>
+        </div>
+
+
+</body>
+
+</html>

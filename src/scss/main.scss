@@ -1,0 +1,12 @@
+@import "partials/_foundation.scss";
+@include foundation-everything;
+.menu li a:focus {
+    box-shadow: none !important;
+    outline: none;
+}
+
+$bfs: 20px;
+body,
+html {
+    font-size: $bfs;
+}

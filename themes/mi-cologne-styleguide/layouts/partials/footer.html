@@ -1,0 +1,8 @@
+    <div class="copyright">
+      <p class="credit">
+	      &copy;{{ now.Format "2006"}}
+        {{ with .Site.Params.copyright }}
+          {{ . | safeHTML }}
+        {{ end }}
+      </p>
+    </div>
