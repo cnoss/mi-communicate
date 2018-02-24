@@ -13,12 +13,34 @@
     
     
     <item>
-      <title>Pages</title>
-      <link>https://example.org/website/structure/pages/</link>
+      <title>Zielgruppen</title>
+      <link>https://example.org/website/zielgruppen/</link>
+      <pubDate>Sat, 24 Feb 2018 13:24:46 +0100</pubDate>
+      
+      <guid>https://example.org/website/zielgruppen/</guid>
+      <description> Die Medieninformatik Website richtet sich primär an die folgenden Zielgruppen. Die Reihenfolge entspricht etwa der Priorität der jeweiligen Gruppe.
+Studieninteressierte, Eltern &amp;amp; Angehörige, Schulen Studierende Unternehmen, Presse Community, Alumni Hochschule intern &amp;amp; extern </description>
+    </item>
+    
+    <item>
+      <title>Kategorien</title>
+      <link>https://example.org/website/categories/</link>
+      <pubDate>Sat, 24 Feb 2018 13:08:26 +0100</pubDate>
+      
+      <guid>https://example.org/website/categories/</guid>
+      <description> Inhalte der Website werden den folgenden Kategorien zugeordnet:
+/home Die Startseite bildet den Einflugschneise für alle. Dementsprechend sollten hier wesentliche Ausschnitte aus allen anderen Kategorien gezeigt werden, um einen Überblick zu geben. In einer späteren Ausbaustufe könnte hier auch eine zielgruppenspezifische Ansprache, z.B. in Form eine Natural-language interface integriert werden.
+/mission /people /projects /pulse /research /study /toolbox </description>
+    </item>
+    
+    <item>
+      <title>Inhaltstypen</title>
+      <link>https://example.org/website/content-types/</link>
       <pubDate>Sat, 24 Feb 2018 08:10:57 +0100</pubDate>
       
-      <guid>https://example.org/website/structure/pages/</guid>
-      <description>Was geht ab hier?</description>
+      <guid>https://example.org/website/content-types/</guid>
+      <description> Folgende Inhaltstypen werden unterschieden:
+Announcement Review Background Paper Tutorial Statement </description>
     </item>
     
     <item>
@@ -33,87 +55,14 @@
     
     <item>
       <title>Struktur</title>
-      <link>https://example.org/website/structure/intro/</link>
+      <link>https://example.org/website/structure/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
-      <guid>https://example.org/website/structure/intro/</guid>
+      <guid>https://example.org/website/structure/</guid>
       <description>Strukturell besteht die Site aus Artikeln, die jeweils einer Kategorie zugeordnet sind. Die Kategorien bestehen möglichst aus einem Wort und sind das erste Segment der URL. Über die jeweilige Kategorien-URL wird die Übersichtsseite der Kategorie aufgerufen, z.B.:
  medieninformatik.th-koeln.de/study
  Ein weiteres Stukturierungselement bilden Tags. Einem Artikel können beliebig viele Tags zugeordnet werden. Jeder Tag bildet über eine eigene URL einen Einstiegspunkt in die Artikel zu diesem Tag, z.B.:
  medieninformatik.</description>
-    </item>
-    
-    <item>
-      <title>/home</title>
-      <link>https://example.org/website/structure/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/website/structure/home/</guid>
-      <description> Ziel Die Seite in die zentrale Anlaufstelle für … tja, für alle.
-Wirkung </description>
-    </item>
-    
-    <item>
-      <title>/mission</title>
-      <link>https://example.org/website/structure/mission/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/website/structure/mission/</guid>
-      <description> work jobs  </description>
-    </item>
-    
-    <item>
-      <title>/people</title>
-      <link>https://example.org/website/structure/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/website/structure/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>/projects</title>
-      <link>https://example.org/website/structure/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/website/structure/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>/pulse</title>
-      <link>https://example.org/website/structure/pulse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/website/structure/pulse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>/research</title>
-      <link>https://example.org/website/structure/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/website/structure/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>/study</title>
-      <link>https://example.org/website/structure/study/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/website/structure/study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>/toolbox</title>
-      <link>https://example.org/website/structure/toolbox/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/website/structure/toolbox/</guid>
-      <description></description>
     </item>
     
   </channel>
