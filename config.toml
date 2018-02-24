@@ -56,3 +56,7 @@ googleAnalytics = ""
   stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
   github        = "full profile url in github"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

@@ -1,12 +1,51 @@
 @import "partials/_foundation.scss";
+
 @include foundation-everything;
 .menu li a:focus {
     box-shadow: none !important;
     outline: none;
 }
 
-$bfs: 20px;
 body,
 html {
     font-size: $bfs;
+}
+
+p, li, td, th{
+    font-size: $bfs * 1.25;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h2{
+    margin-top: $bfs * 2;
+}
+
+
+li{
+    line-height: 140%;
+    margin-bottom: $bfs /2;
+}
+
+.grid-container.fluid{
+    margin-left: 100px;
+}
+
+.grid-x{
+    margin-bottom: $bfs *2;
+}
+
+blockquote{
+    border-left: solid 3px $mi-pink;
+    padding: $bfs/2  $bfs;
+
+    > p{
+        margin-bottom: 0;
+    }
+}
+
+.MIcontentBlock{
+    margin-bottom: $bfs * 4;
 }

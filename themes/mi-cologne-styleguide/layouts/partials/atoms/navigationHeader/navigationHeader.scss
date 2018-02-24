@@ -1,7 +1,41 @@
+@import "../../../../../../src/scss/main.scss";
+
+.navigationHeader{
+    margin-left: -100px;
+    margin-top: $bfs * 2;
+    margin-bottom: $bfs * 5;
+    line-height: 64px;
+    font-size: 64px;
+
+    .logoSlash, .logoSlug{
+        display: inline-block;
+    }
+
+    .logoSlash{
+        color: $mi-pink;
+    }
+
+    .logoSlug{
+        font-weight: 400;
+    }
+
+    [data-toggle=offCanvas]{
+        margin-bottom: 20px;
+    }
+
+    .navigationHeaderText{
+        display: inline-block;
+        font-family: $family-headlines;
+        font-weight: bold;
+        vertical-align: baseline;
+        margin-bottom: -5px;
+    }
+}
+
 .hamburger {
-    font-size: 30px;
+    font-size: 48px;
     display: inline-block;
-    width: 1em;
+    width: 80px;
     height: 1em;
     padding: 0;
     cursor: pointer;
@@ -31,19 +65,18 @@
 .hamburger .icon,
 .hamburger:after {
     display: block;
-    width: 100%;
-    height: .2em;
+    width: 63px;
+    height: 10px;
     margin: 0 0 .2em;
     transition: transform .2s ease-in-out;
-    border-radius: .05em;
-    background: #dd1166;
+    background: $mi-lila;
 }
 
 // Styles for the active `.hamburger` icon
 .hamburger[aria-expanded=true]:before,
 .hamburger[aria-expanded=true] .icon,
 .hamburger[aria-expanded=true]:after {
-    background: #2c3e50;
+    background: $mi-pink;
 }
 
 // CLOSE/CANCEL/CROSS

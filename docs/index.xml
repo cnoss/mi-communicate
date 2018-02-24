@@ -213,6 +213,37 @@
     </item>
     
     <item>
+      <title>Pages</title>
+      <link>https://example.org/website/structure/pages/</link>
+      <pubDate>Sat, 24 Feb 2018 08:10:57 +0100</pubDate>
+      
+      <guid>https://example.org/website/structure/pages/</guid>
+      <description>Was geht ab hier?</description>
+    </item>
+    
+    <item>
+      <title>Gestaltungsziele</title>
+      <link>https://example.org/website/gestaltungsziele/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://example.org/website/gestaltungsziele/</guid>
+      <description>Mit der Gestaltung der Seite sollen folgende Wirkungen erzielt werden:
+ die MI ist Teil der Hochschule, aber wir befinden uns hier nicht auf der Hochschulwebsite, sondern auf eigenem Terrain die MI ist technische orientiert die MI hat eine ausgeprägte ästhetische Komponente die MI ist eigenständig und strukturiert die MI bietet Platz die MI ist freundlich, offen und zugewandt hier gibt es was zu entdecken  Das Design ist möglichst einfach, klar, reduziert und großzügig.</description>
+    </item>
+    
+    <item>
+      <title>Struktur</title>
+      <link>https://example.org/website/structure/intro/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://example.org/website/structure/intro/</guid>
+      <description>Strukturell besteht die Site aus Artikeln, die jeweils einer Kategorie zugeordnet sind. Die Kategorien bestehen möglichst aus einem Wort und sind das erste Segment der URL. Über die jeweilige Kategorien-URL wird die Übersichtsseite der Kategorie aufgerufen, z.B.:
+ medieninformatik.th-koeln.de/study
+ Ein weiteres Stukturierungselement bilden Tags. Einem Artikel können beliebig viele Tags zugeordnet werden. Jeder Tag bildet über eine eigene URL einen Einstiegspunkt in die Artikel zu diesem Tag, z.B.:
+ medieninformatik.</description>
+    </item>
+    
+    <item>
       <title>Name of the work 1</title>
       <link>https://example.org/portfolio/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
@@ -230,6 +261,79 @@
       <guid>https://example.org/portfolio/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>/home</title>
+      <link>https://example.org/website/structure/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/website/structure/home/</guid>
+      <description> Ziel Die Seite in die zentrale Anlaufstelle für … tja, für alle.
+Wirkung </description>
+    </item>
+    
+    <item>
+      <title>/mission</title>
+      <link>https://example.org/website/structure/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/website/structure/mission/</guid>
+      <description> work jobs  </description>
+    </item>
+    
+    <item>
+      <title>/people</title>
+      <link>https://example.org/website/structure/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/website/structure/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>/projects</title>
+      <link>https://example.org/website/structure/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/website/structure/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>/pulse</title>
+      <link>https://example.org/website/structure/pulse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/website/structure/pulse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>/research</title>
+      <link>https://example.org/website/structure/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/website/structure/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>/study</title>
+      <link>https://example.org/website/structure/study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/website/structure/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>/toolbox</title>
+      <link>https://example.org/website/structure/toolbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/website/structure/toolbox/</guid>
+      <description></description>
     </item>
     
   </channel>

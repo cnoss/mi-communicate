@@ -103,13 +103,13 @@
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>https://example.org/website/structure/pages/</loc>
+    <lastmod>2018-02-24T08:10:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <loc>https://example.org/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
@@ -118,7 +118,27 @@
   </url>
   
   <url>
+    <loc>https://example.org/uebermich/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/gestaltungsziele/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.org/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/intro/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
@@ -130,6 +150,38 @@
   <url>
     <loc>https://example.org/portfolio/work1/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/mission/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/pulse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/study/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/website/structure/toolbox/</loc>
   </url>
   
   <url>

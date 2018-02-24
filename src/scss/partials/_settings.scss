@@ -60,16 +60,8 @@
 //  55. Top Bar
 //  56. Xy Grid
 @import '../../foundation/scss/util/util';
-// 0. MI Styles
-// ---------
-$mi-blau: #4952e1;
-$mi-pink: #dd1166;
-$mi-gruen: #00AD2F;
-$mi-lila: #9313ce;
-$mi-black: #231f20;
-$mi-grau: #aaaaaa;
-$family-primary: "PT Sans";
-$family-headlines: "Roboto Slab";
+@import '_mi-base';
+
 // 1. Global
 // ---------
 $global-font-size: 100%;
@@ -130,11 +122,11 @@ monospace;
 $header-color: inherit;
 $header-lineheight: 1.4;
 $header-margin-bottom: 0.5rem;
-$header-styles: ( small: ( 'h1': ('font-size': 24), 'h2': ('font-size': 20), 'h3': ('font-size': 19), 'h4': ('font-size': 18), 'h5': ('font-size': 17), 'h6': ('font-size': 16), ), medium: ( 'h1': ('font-size': 48), 'h2': ('font-size': 40), 'h3': ('font-size': 31), 'h4': ('font-size': 25), 'h5': ('font-size': 20), 'h6': ('font-size': 16), ), );
+$header-styles: ( small: ( 'h1': ('font-size': 40px), 'h2': ('font-size': 20), 'h3': ('font-size': 19), 'h4': ('font-size': 18), 'h5': ('font-size': 17), 'h6': ('font-size': 16), ), medium: ( 'h1': ('font-size': 40), 'h2': ('font-size': 31.5), 'h3': ('font-size': 25), 'h4': ('font-size': 20), 'h5': ('font-size': 16), 'h6': ('font-size': 16), ), );
 $header-text-rendering: optimizeLegibility;
 $small-font-size: 80%;
 $header-small-font-color: $medium-gray;
-$paragraph-lineheight: 1.6;
+$paragraph-lineheight: 140%;
 $paragraph-margin-bottom: 1rem;
 $paragraph-text-rendering: optimizeLegibility;
 $code-color: $black;
