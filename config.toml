@@ -1,4 +1,4 @@
-baseurl = "/mi-communicate"
+baseurl = "https://cnoss.github.io/mi-communicate/"
 title = "Medieninformatik Styleguide 18"
 theme = "mi-cologne-styleguide"
 languageCode = "de-de"
