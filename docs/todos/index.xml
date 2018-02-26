@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Todos on Medieninformatik Styleguide 18</title>
-    <link>https://cnoss.github.io/mi-communicate/todos/</link>
+    <link>https://th-koeln.github.io/mi-communicate/todos/</link>
     <description>Recent content in Todos on Medieninformatik Styleguide 18</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Medieninformatik am Campus Gummersbach</copyright>
     <lastBuildDate>Sun, 25 Feb 2018 08:57:45 +0100</lastBuildDate>
     
-	<atom:link href="https://cnoss.github.io/mi-communicate/todos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://th-koeln.github.io/mi-communicate/todos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projektseite</title>
-      <link>https://cnoss.github.io/mi-communicate/todos/projektseite/</link>
+      <link>https://th-koeln.github.io/mi-communicate/todos/projektseite/</link>
       <pubDate>Sun, 25 Feb 2018 08:57:45 +0100</pubDate>
       
-      <guid>https://cnoss.github.io/mi-communicate/todos/projektseite/</guid>
+      <guid>https://th-koeln.github.io/mi-communicate/todos/projektseite/</guid>
       <description>  Sourcemap integration  Coding Styleguide  Wie werden CSS Eigenschaften gestackt?  CSS Maps </description>
     </item>
     
