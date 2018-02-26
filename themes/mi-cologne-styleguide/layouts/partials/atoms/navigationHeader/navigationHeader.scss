@@ -1,7 +1,11 @@
 @import "../../../../../../src/scss/main.scss";
 
 .navigationHeader{
-    margin-left: $from-left *-1;
+
+    @media screen and #{breakpoint(medium)} {
+        margin-left: $from-left *-1;
+    }
+    
     margin-top: $bfs * 2;
     margin-bottom: $bfs * 5;
     line-height: 64px;

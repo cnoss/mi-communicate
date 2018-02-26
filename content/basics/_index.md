@@ -7,4 +7,4 @@ category = ["pulse"]
 order = 0
 +++
 
-Wofür machen wir das Ganze?
+Welche Zielgruppen wollen wir über welche Kanäle ansprechen und warum? Diese und ähnliche Fragen werden hier behandelt und idealerweise beantwortet. Sollten Fragen offen sein, dann diese gerne in die {{<issues>}} schreiben.
