@@ -5,7 +5,8 @@ var gulp = require("gulp"),
     concat = require('gulp-concat'),
     plumber = require('gulp-plumber'),
     notify = require('gulp-notify'),
-    del = require("del");
+    del = require("del"),
+    sourcemaps = require('gulp-sourcemaps');
 
 
 
@@ -48,9 +49,9 @@ gulp.task("js", function() {
 
 // Watch asset folder for changes
 gulp.task("watch", ["scss", "images", "js"], function() {
-    gulp.watch(["src/scss/**/*", "themes/mi-cologne-styleguide/layouts/partials/atoms/**/*"], ["scss"])
+    gulp.watch(["src/scss/**/*", "themes/mi-cologne-styleguide/layouts/partials/atoms/**/*", "themes/mi-cologne-styleguide/layouts/partials/molecules/**/*", "themes/mi-cologne-styleguide/layouts/partials/organisms/**/*"], ["scss"])
     gulp.watch("src/images/**/*", ["images"])
-    gulp.watch(["src/js/**/*", "themes/mi-cologne-styleguide/layouts/partials/atoms/**/*"], ["js"])
+    gulp.watch(["src/js/**/*", "themes/mi-cologne-styleguide/layouts/partials/atoms/**/*", "themes/mi-cologne-styleguide/layouts/partials/molecules/**/*", "themes/mi-cologne-styleguide/layouts/partials/organisms/**/*"], ["js"])
 });
 
 // Set watch as default task

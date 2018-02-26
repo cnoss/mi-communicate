@@ -23,6 +23,9 @@ h2{
     margin-top: $bfs * 2;
 }
 
+h1, h2, h3, h4{
+    line-height: 110%;
+}
 
 li{
     line-height: 140%;
@@ -30,9 +33,13 @@ li{
 }
 
 .grid-container.fluid{
-    margin-left: 100px;
+    margin-left: $from-left;
 }
 
+.off-canvas-content{
+    min-height: 100vh;
+    position: relative;
+}
 .grid-x{
     margin-bottom: $bfs *2;
 }

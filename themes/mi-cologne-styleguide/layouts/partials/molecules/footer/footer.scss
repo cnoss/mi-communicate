@@ -1,0 +1,13 @@
+@import "../../../../../../src/scss/main.scss";
+
+.footer{
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    background: $mi-black;
+    color: #fff;
+    padding: $bfs/2 ($from-left + map-get($grid-container-padding, small)/2);
+    
+}

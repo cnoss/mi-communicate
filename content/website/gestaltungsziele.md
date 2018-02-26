@@ -9,7 +9,7 @@ Mit der Gestaltung der Seite sollen folgende Wirkungen erzielt werden:
 - die MI ist Teil der Hochschule, aber wir befinden uns hier nicht auf der Hochschulwebsite, sondern auf eigenem Terrain
 - die MI ist technische orientiert
 - die MI hat eine ausgeprägte ästhetische Komponente
-- die MI ist eigenständig und strukturiert
+- die MI ist eigenständig, prägnant und strukturiert
 - die MI bietet Platz
 - die MI ist freundlich, offen und zugewandt
 - hier gibt es was zu entdecken

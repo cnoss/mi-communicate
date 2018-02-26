@@ -10,7 +10,7 @@
 
     <div class="off-canvas-wrapper">
         <div class="off-canvas position-left" id="offCanvas" data-off-canvas>
-            {{ partial "sidebar.html" . }}
+            {{ partial "organisms/sidebar/sidebar.html" $globalParams }}
         </div>
         <div class="off-canvas-content" data-off-canvas-content>
             <div class="grid-container fluid">
@@ -19,11 +19,12 @@
                         {{ partial "atoms/navigationHeader/navigationHeader.html" $globalParams }}
                     </div>
                 </div>
-                {{ block "main" . }} {{ end }} {{ partial "footer.html" . }}
+                {{ block "main" . }} {{ end }}
             </div>
+            
         </div>
     </div>
-
+    {{ partial "molecules/footer/footer.html" $globalParams }}
 </body>
 {{ partial "scripts.html" $globalParams }}
 

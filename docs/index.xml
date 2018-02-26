@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Medieninformatik Styleguide on Medieninformatik Styleguide 18</title>
+    <title>Wie funktioniert Kommunikation in der Medieninformatik? on Medieninformatik Styleguide 18</title>
     <link>https://cnoss.github.io/mi-communicate/</link>
-    <description>Recent content in Medieninformatik Styleguide on Medieninformatik Styleguide 18</description>
+    <description>Recent content in Wie funktioniert Kommunikation in der Medieninformatik? on Medieninformatik Styleguide 18</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Medieninformatik am Campus Gummersbach</copyright>
@@ -13,213 +13,31 @@
     
     
     <item>
-      <title>Name of the work 2</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>Projektseite</title>
+      <link>https://cnoss.github.io/mi-communicate/todos/projektseite/</link>
+      <pubDate>Sun, 25 Feb 2018 08:57:45 +0100</pubDate>
       
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 2</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 3</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 3</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item without image</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item without image</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 5</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 5</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 6</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work6/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 6</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work6/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 7</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 7</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 8</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 8</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
+      <guid>https://cnoss.github.io/mi-communicate/todos/projektseite/</guid>
+      <description>  Sourcemap integration  Coding Styleguide  Wie werden CSS Eigenschaften gestackt?  CSS Maps </description>
     </item>
     
     <item>
       <title>Zielgruppen</title>
-      <link>https://cnoss.github.io/mi-communicate/website/zielgruppen/</link>
-      <pubDate>Sat, 24 Feb 2018 13:24:46 +0100</pubDate>
+      <link>https://cnoss.github.io/mi-communicate/basics/targetgroups/</link>
+      <pubDate>Sun, 25 Feb 2018 08:25:42 +0100</pubDate>
       
-      <guid>https://cnoss.github.io/mi-communicate/website/zielgruppen/</guid>
-      <description> Die Medieninformatik Website richtet sich primär an die folgenden Zielgruppen. Die Reihenfolge entspricht etwa der Priorität der jeweiligen Gruppe.
-Studieninteressierte, Eltern &amp;amp; Angehörige, Schulen Studierende Unternehmen, Presse Community, Alumni Hochschule intern &amp;amp; extern </description>
+      <guid>https://cnoss.github.io/mi-communicate/basics/targetgroups/</guid>
+      <description> Die Kommunikation der Medieninformatik richtet sich primär an die folgenden Zielgruppen. Die Reihenfolge entspricht etwa der Priorität der jeweiligen Gruppe.
+Studieninteressierte, Eltern &amp;amp; Angehörige, Schulen Studierende Unternehmen, Presse Community, Alumni Hochschule intern &amp;amp; extern Kanäle </description>
+    </item>
+    
+    <item>
+      <title>Channels</title>
+      <link>https://cnoss.github.io/mi-communicate/basics/channels/</link>
+      <pubDate>Sun, 25 Feb 2018 08:24:20 +0100</pubDate>
+      
+      <guid>https://cnoss.github.io/mi-communicate/basics/channels/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -250,7 +68,7 @@ Announcement Review Background Paper Tutorial Statement </description>
       
       <guid>https://cnoss.github.io/mi-communicate/website/gestaltungsziele/</guid>
       <description>Mit der Gestaltung der Seite sollen folgende Wirkungen erzielt werden:
- die MI ist Teil der Hochschule, aber wir befinden uns hier nicht auf der Hochschulwebsite, sondern auf eigenem Terrain die MI ist technische orientiert die MI hat eine ausgeprägte ästhetische Komponente die MI ist eigenständig und strukturiert die MI bietet Platz die MI ist freundlich, offen und zugewandt hier gibt es was zu entdecken  Das Design ist möglichst einfach, klar, reduziert und großzügig.</description>
+ die MI ist Teil der Hochschule, aber wir befinden uns hier nicht auf der Hochschulwebsite, sondern auf eigenem Terrain die MI ist technische orientiert die MI hat eine ausgeprägte ästhetische Komponente die MI ist eigenständig, prägnant und strukturiert die MI bietet Platz die MI ist freundlich, offen und zugewandt hier gibt es was zu entdecken  Das Design ist möglichst einfach, klar, reduziert und großzügig.</description>
     </item>
     
     <item>
@@ -263,26 +81,6 @@ Announcement Review Background Paper Tutorial Statement </description>
  medieninformatik.th-koeln.de/study
  Ein weiteres Stukturierungselement bilden Tags. Einem Artikel können beliebig viele Tags zugeordnet werden. Jeder Tag bildet über eine eigene URL einen Einstiegspunkt in die Artikel zu diesem Tag, z.B.:
  medieninformatik.</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 1</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 1</title>
-      <link>https://cnoss.github.io/mi-communicate/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://cnoss.github.io/mi-communicate/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
     </item>
     
   </channel>

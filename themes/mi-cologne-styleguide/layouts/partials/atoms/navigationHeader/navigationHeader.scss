@@ -1,11 +1,19 @@
 @import "../../../../../../src/scss/main.scss";
 
 .navigationHeader{
-    margin-left: -100px;
+    margin-left: $from-left *-1;
     margin-top: $bfs * 2;
     margin-bottom: $bfs * 5;
     line-height: 64px;
     font-size: 64px;
+
+    a{
+        color: #000;
+    }
+
+    a:hover{
+        color: $mi-pink;
+    }
 
     .logoSlash, .logoSlug{
         display: inline-block;
