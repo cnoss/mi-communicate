@@ -19,16 +19,26 @@
       
       <guid>https://th-koeln.github.io/mi-communicate/basics/targetgroups/</guid>
       <description> Die Kommunikation der Medieninformatik richtet sich primär an die folgenden Zielgruppen. Die Reihenfolge entspricht etwa der Priorität der jeweiligen Gruppe.
-Studieninteressierte, Eltern &amp;amp; Angehörige, Schulen Studierende Unternehmen, Presse Community, Alumni Hochschule intern &amp;amp; extern Kanäle </description>
+Studieninteressierte, Eltern &amp;amp; Angehörige, Schulen Studierende Unternehmen, Presse Community, Alumni Hochschule intern &amp;amp; extern </description>
     </item>
     
     <item>
-      <title>Channels</title>
+      <title>Formate</title>
+      <link>https://th-koeln.github.io/mi-communicate/basics/formats/</link>
+      <pubDate>Sun, 25 Feb 2018 08:24:20 +0100</pubDate>
+      
+      <guid>https://th-koeln.github.io/mi-communicate/basics/formats/</guid>
+      <description> Showcase Filmfest Kontaktbörse Vorlesetag Tag der offenen Tür Girlsday Nacht der Technik </description>
+    </item>
+    
+    <item>
+      <title>Kanäle</title>
       <link>https://th-koeln.github.io/mi-communicate/basics/channels/</link>
       <pubDate>Sun, 25 Feb 2018 08:24:20 +0100</pubDate>
       
       <guid>https://th-koeln.github.io/mi-communicate/basics/channels/</guid>
-      <description></description>
+      <description> Um die einzelnen Zielgruppen zu erreichen, nutzen wir verschiedene Kanäle. Jedem Kanal sind, mehr oder weniger spezifisch, Zielgruppen und Themen zugeordnet. Zudem sollten für jeden Kanal ein Vision Statement und eine ungefähre Tonalität formuliert sein.
+TH Website  Bachelor Master  MI Website MI Wiki Facebook Twitter Youtube Schwarzes Brett Ilias Schaukasten </description>
     </item>
     
   </channel>
